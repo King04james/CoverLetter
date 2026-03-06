@@ -1,0 +1,36 @@
+# AI Cover Letter Generator
+
+This project generates personalized cover letters using AI by analyzing a user's resume and job description.
+
+## Features
+- Resume text extraction
+- Job description analysis
+- AI-generated personalized cover letters
+- Supports multiple file formats
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/King04james/CoverLetter.git
+
+Go to the project folder:
+
+cd CoverLetter
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the application:
+
+python app.py
+
+## Technologies Used
+- Python
+- OCR
+- NLP
+- Local LLM
+
+## License
+This project is licensed under the MIT License.
