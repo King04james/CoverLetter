@@ -7,6 +7,7 @@ This project generates personalized cover letters using AI by analyzing a resume
 - Job description analysis
 - AI-generated cover letters
 - Supports multiple file formats
+- Interview Preparation
 
 ## Installation
 
